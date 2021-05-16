@@ -1,0 +1,2396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\Flax\ExamplePlugin" t="IncludeFlat">
+      <e p="Binaries\ExamplePluginEditorTarget\Windows\x64\Development" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\BuildScripts\Windows\AnyCPU\Debug\CSharp" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Debug\ExamplePlugin" t="Include">
+        <e p="ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      </e>
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Debug\ExamplePluginEditor" t="Include">
+        <e p="ExamplePluginEditor.Bindings.Gen.cs" t="Include" />
+      </e>
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Development\CSharp" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Development\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Development\ExamplePluginEditor\ExamplePluginEditor.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Release\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginEditorTarget\Windows\x64\Release\ExamplePluginEditor\ExamplePluginEditor.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\UWP\x64\Debug\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\UWP\x64\Development\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\UWP\x64\Release\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\Win32\Debug\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\Win32\Development\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\Win32\Release\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\x64\Debug\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\x64\Development\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\Windows\x64\Release\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\XboxOne\x64\Debug\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\XboxOne\x64\Development\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\ExamplePluginTarget\XboxOne\x64\Release\ExamplePlugin\ExamplePlugin.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\Unused" t="ExcludeRecursive" />
+      <e p="Cache\Projects" t="IncludeRecursive">
+        <e p="BuildScripts.csproj" t="IncludeRecursive" />
+        <e p="FlaxEngine.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Example Plugin.sln" t="IncludeFlat" />
+      <e p="Flax" t="Include">
+        <e p="Tools" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Source" t="IncludeRecursive">
+        <e p="ExamplePlugin" t="Include">
+          <e p="ExamplePlugin.Build.cs" t="Include" />
+          <e p="MyPlugin.cs" t="Include" />
+        </e>
+        <e p="ExamplePlugin.csproj" t="IncludeRecursive" />
+        <e p="ExamplePlugin.Gen.cs" t="Include" />
+        <e p="ExamplePluginEditor" t="Include">
+          <e p="ExamplePluginEditor.Build.cs" t="Include" />
+          <e p="MyPluginEditor.cs" t="Include" />
+        </e>
+        <e p="ExamplePluginEditor.csproj" t="IncludeRecursive" />
+        <e p="ExamplePluginEditor.Gen.cs" t="Include" />
+        <e p="ExamplePluginEditorTarget.Build.cs" t="Include" />
+        <e p="ExamplePluginTarget.Build.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Binaries\Editor\Win64\Development" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Binaries\Tools" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\Flax.Build\Debug" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\Flax.Build.Tests\Debug" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\Flax.Stats\Debug" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Animations" t="Include">
+      <e p="Animations.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\assimp" t="Include">
+      <e p="assimp.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Audio" t="Include">
+      <e p="Audio.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\AudioTool" t="Include">
+      <e p="AudioTool.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Content" t="Include">
+      <e p="Content.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ContentExporters" t="Include">
+      <e p="ContentExporters.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ContentImporters" t="Include">
+      <e p="ContentImporters.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Core" t="Include">
+      <e p="Core.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\CSG" t="Include">
+      <e p="CSG.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\curl" t="Include">
+      <e p="curl.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Debug" t="Include">
+      <e p="Debug.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\DirectXMesh" t="Include">
+      <e p="DirectXMesh.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\DirectXTex" t="Include">
+      <e p="DirectXTex.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Editor" t="Include">
+      <e p="Editor.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Engine" t="Include">
+      <e p="Engine.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\fmt" t="Include">
+      <e p="fmt.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Foliage" t="Include">
+      <e p="Foliage.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\freetype" t="Include">
+      <e p="freetype.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\glslang" t="Include">
+      <e p="glslang.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Graphics" t="Include">
+      <e p="Graphics.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\GraphicsDeviceDX11" t="Include">
+      <e p="GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\GraphicsDeviceDX12" t="Include">
+      <e p="GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\GraphicsDeviceNull" t="Include">
+      <e p="GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\GraphicsDeviceVulkan" t="Include">
+      <e p="GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Input" t="Include">
+      <e p="Input.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Level" t="Include">
+      <e p="Level.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Localization" t="Include">
+      <e p="Localization.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\lz4" t="Include">
+      <e p="lz4.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Main" t="Include">
+      <e p="Main.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\MaterialGenerator" t="Include">
+      <e p="MaterialGenerator.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\meshoptimizer" t="Include">
+      <e p="meshoptimizer.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\minimp3" t="Include">
+      <e p="minimp3.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ModelTool" t="Include">
+      <e p="ModelTool.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\mono" t="Include">
+      <e p="mono.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Navigation" t="Include">
+      <e p="Navigation.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ogg" t="Include">
+      <e p="ogg.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\OpenFBX" t="Include">
+      <e p="OpenFBX.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Particles" t="Include">
+      <e p="Particles.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Physics" t="Include">
+      <e p="Physics.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\PhysX" t="Include">
+      <e p="PhysX.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Platform" t="Include">
+      <e p="Platform.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Profiler" t="Include">
+      <e p="Profiler.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\pugixml" t="Include">
+      <e p="pugixml.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\rapidjson" t="Include">
+      <e p="rapidjson.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\recastnavigation" t="Include">
+      <e p="recastnavigation.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Render2D" t="Include">
+      <e p="Render2D.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Renderer" t="Include">
+      <e p="Renderer.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Scripting" t="Include">
+      <e p="Scripting.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Serialization" t="Include">
+      <e p="Serialization.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ShaderCompilerD3D" t="Include">
+      <e p="ShaderCompilerD3D.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ShaderCompilerDX" t="Include">
+      <e p="ShaderCompilerDX.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ShaderCompilerVulkan" t="Include">
+      <e p="ShaderCompilerVulkan.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ShadersCompilation" t="Include">
+      <e p="ShadersCompilation.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\ShadowsOfMordor" t="Include">
+      <e p="ShadowsOfMordor.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\spirv-tools" t="Include">
+      <e p="spirv-tools.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Streaming" t="Include">
+      <e p="Streaming.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Terrain" t="Include">
+      <e p="Terrain.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\TextureTool" t="Include">
+      <e p="TextureTool.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Threading" t="Include">
+      <e p="Threading.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\tracy" t="Include">
+      <e p="tracy.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\UI" t="Include">
+      <e p="UI.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\UniversalAnalytics" t="Include">
+      <e p="UniversalAnalytics.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Utilities" t="Include">
+      <e p="Utilities.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\UVAtlas" t="Include">
+      <e p="UVAtlas.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\Visject" t="Include">
+      <e p="Visject.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\volk" t="Include">
+      <e p="volk.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\vorbis" t="Include">
+      <e p="vorbis.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Debug\VulkanMemoryAllocator" t="Include">
+      <e p="VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    </e>
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\assimp\assimp.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ContentExporters\ContentExporters.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ContentImporters\ContentImporters.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\CSG\CSG.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\CSharp" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\curl\curl.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\DirectXMesh\DirectXMesh.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Editor\Editor.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\glslang\glslang.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\MaterialGenerator\MaterialGenerator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\meshoptimizer\meshoptimizer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ModelTool\ModelTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\OpenFBX\OpenFBX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\pugixml\pugixml.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ShaderCompilerD3D\ShaderCompilerD3D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ShaderCompilerDX\ShaderCompilerDX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ShaderCompilerVulkan\ShaderCompilerVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ShadersCompilation\ShadersCompilation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\ShadowsOfMordor\ShadowsOfMordor.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\spirv-tools\spirv-tools.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\UniversalAnalytics\UniversalAnalytics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\UVAtlas\UVAtlas.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Development\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\assimp\assimp.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ContentExporters\ContentExporters.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ContentImporters\ContentImporters.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\CSG\CSG.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\curl\curl.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\DirectXMesh\DirectXMesh.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Editor\Editor.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\glslang\glslang.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\MaterialGenerator\MaterialGenerator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\meshoptimizer\meshoptimizer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ModelTool\ModelTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\OpenFBX\OpenFBX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\pugixml\pugixml.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ShaderCompilerD3D\ShaderCompilerD3D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ShaderCompilerDX\ShaderCompilerDX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ShaderCompilerVulkan\ShaderCompilerVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ShadersCompilation\ShadersCompilation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\ShadowsOfMordor\ShadowsOfMordor.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\spirv-tools\spirv-tools.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\UniversalAnalytics\UniversalAnalytics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\UVAtlas\UVAtlas.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEditor\Windows\x64\Release\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxEngine.Tests\Debug" t="ExcludeRecursive" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Debug\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Development\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\UWP\x64\Release\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Debug\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Development\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\Win32\Release\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Debug\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\tracy\tracy.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Development\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\GraphicsDeviceDX12\GraphicsDeviceDX12.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\GraphicsDeviceNull\GraphicsDeviceNull.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\GraphicsDeviceVulkan\GraphicsDeviceVulkan.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\volk\volk.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\Windows\x64\Release\VulkanMemoryAllocator\VulkanMemoryAllocator.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Debug\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Profiler\Profiler.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Development\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Animations\Animations.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Audio\Audio.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\AudioTool\AudioTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Content\Content.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Core\Core.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Debug\Debug.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\DirectXTex\DirectXTex.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Engine\Engine.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\fmt\fmt.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Foliage\Foliage.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\freetype\freetype.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Graphics\Graphics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\GraphicsDeviceDX11\GraphicsDeviceDX11.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Input\Input.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Level\Level.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Localization\Localization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\lz4\lz4.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Main\Main.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\minimp3\minimp3.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\mono\mono.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Navigation\Navigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\ogg\ogg.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Particles\Particles.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Physics\Physics.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\PhysX\PhysX.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Platform\Platform.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\rapidjson\rapidjson.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\recastnavigation\recastnavigation.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Render2D\Render2D.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Renderer\Renderer.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Scripting\Scripting.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Serialization\Serialization.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Streaming\Streaming.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Terrain\Terrain.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\TextureTool\TextureTool.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Threading\Threading.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\UI\UI.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Utilities\Utilities.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\Visject\Visject.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Cache\Intermediate\FlaxGame\XboxOne\x64\Release\vorbis\vorbis.Bindings.Gen.cs" t="Include" />
+    <e p="C:\Projects\Flax\FlaxEngine\Source" t="Include">
+      <e p="Editor" t="Include">
+        <e p="Content" t="Include">
+          <e p="AssetItemConverter.cs" t="Include" />
+          <e p="Create" t="Include">
+            <e p="CreateFileEntry.cs" t="Include" />
+            <e p="CreateFilesDialog.cs" t="Include" />
+            <e p="ParticleEmitterCreateEntry.cs" t="Include" />
+            <e p="SettingsCreateEntry.cs" t="Include" />
+            <e p="VisualScriptCreateEntry.cs" t="Include" />
+          </e>
+          <e p="GUI" t="Include">
+            <e p="ContentNavigationButton.cs" t="Include" />
+            <e p="ContentView.cs" t="Include" />
+            <e p="ContentView.DragDrop.cs" t="Include" />
+          </e>
+          <e p="IFileEntryAction.cs" t="Include" />
+          <e p="Import" t="Include">
+            <e p="AssetImportEntry.cs" t="Include" />
+            <e p="AudioImportSettings.cs" t="Include" />
+            <e p="FolderImportEntry.cs" t="Include" />
+            <e p="ImportFileEntry.cs" t="Include" />
+            <e p="ImportFilesDialog.cs" t="Include" />
+            <e p="ModelImportEntry.cs" t="Include" />
+            <e p="Request.cs" t="Include" />
+            <e p="TextureImportEntry.cs" t="Include" />
+          </e>
+          <e p="Items" t="Include">
+            <e p="AssetItem.cs" t="Include" />
+            <e p="BinaryAssetItem.cs" t="Include" />
+            <e p="ContentFolder.cs" t="Include" />
+            <e p="ContentItem.cs" t="Include" />
+            <e p="CppScriptItem.cs" t="Include" />
+            <e p="CSharpScriptItem.cs" t="Include" />
+            <e p="FileItem.cs" t="Include" />
+            <e p="JsonAssetItem.cs" t="Include" />
+            <e p="NewItem.cs" t="Include" />
+            <e p="PrefabItem.cs" t="Include" />
+            <e p="SceneItem.cs" t="Include" />
+            <e p="ScriptItem.cs" t="Include" />
+            <e p="ShaderSourceItem.cs" t="Include" />
+            <e p="VisualScriptItem.cs" t="Include" />
+          </e>
+          <e p="PreviewsCache.cs" t="Include" />
+          <e p="Proxy" t="Include">
+            <e p="AnimationGraphFunctionProxy.cs" t="Include" />
+            <e p="AnimationGraphProxy.cs" t="Include" />
+            <e p="AnimationProxy.cs" t="Include" />
+            <e p="AssetProxy.cs" t="Include" />
+            <e p="AudioClipProxy.cs" t="Include" />
+            <e p="BinaryAssetProxy.cs" t="Include" />
+            <e p="CollisionDataProxy.cs" t="Include" />
+            <e p="ContentProxy.cs" t="Include" />
+            <e p="CppProxy.cs" t="Include" />
+            <e p="CSharpScriptProxy.cs" t="Include" />
+            <e p="CubeTextureProxy.cs" t="Include" />
+            <e p="FileProxy.cs" t="Include" />
+            <e p="FontProxy.cs" t="Include" />
+            <e p="GameplayGlobalsProxy.cs" t="Include" />
+            <e p="IESProfileProxy.cs" t="Include" />
+            <e p="JsonAssetProxy.cs" t="Include" />
+            <e p="LocalizedStringTableProxy.cs" t="Include" />
+            <e p="MaterialFunctionProxy.cs" t="Include" />
+            <e p="MaterialInstanceProxy.cs" t="Include" />
+            <e p="MaterialProxy.cs" t="Include" />
+            <e p="ModelProxy.cs" t="Include" />
+            <e p="ParticleEmitterFunctionProxy.cs" t="Include" />
+            <e p="ParticleEmitterProxy.cs" t="Include" />
+            <e p="ParticleSystemProxy.cs" t="Include" />
+            <e p="PrefabProxy.cs" t="Include" />
+            <e p="PreviewsCacheProxy.cs" t="Include" />
+            <e p="SceneAnimationProxy.cs" t="Include" />
+            <e p="SceneProxy.cs" t="Include" />
+            <e p="ScriptProxy.cs" t="Include" />
+            <e p="SettingsProxy.cs" t="Include" />
+            <e p="ShaderProxy.cs" t="Include" />
+            <e p="ShaderSourceProxy.cs" t="Include" />
+            <e p="SkeletonMaskProxy.cs" t="Include" />
+            <e p="SkinnedModelProxy.cs" t="Include" />
+            <e p="SpriteAtlasProxy.cs" t="Include" />
+            <e p="TextureProxy.cs" t="Include" />
+            <e p="VisualScriptProxy.cs" t="Include" />
+          </e>
+          <e p="Settings" t="Include">
+            <e p="BuildPreset.cs" t="Include" />
+            <e p="BuildTarget.cs" t="Include" />
+          </e>
+          <e p="Thumbnails" t="Include">
+            <e p="ThumbnailRequest.cs" t="Include" />
+            <e p="ThumbnailsModule.cs" t="Include" />
+          </e>
+          <e p="Tree" t="Include">
+            <e p="ContentTreeNode.cs" t="Include" />
+            <e p="MainContentTreeNode.cs" t="Include" />
+            <e p="ProjectTreeNode.cs" t="Include" />
+            <e p="RootContentTreeNode.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Cooker" t="Include">
+          <e p="GameCooker.cs" t="Include" />
+        </e>
+        <e p="CustomEditors" t="Include">
+          <e p="CustomEditor.cs" t="Include" />
+          <e p="CustomEditorPresenter.cs" t="Include" />
+          <e p="CustomEditorsUtil.cs" t="Include" />
+          <e p="Dedicated" t="Include">
+            <e p="ActorEditor.cs" t="Include" />
+            <e p="AnimatedModelEditor.cs" t="Include" />
+            <e p="CurveObjectEditor.cs" t="Include" />
+            <e p="EnvironmentProbeEditor.cs" t="Include" />
+            <e p="FontReferenceEditor.cs" t="Include" />
+            <e p="LayersMaskEditor.cs" t="Include" />
+            <e p="LayersMatrixEditor.cs" t="Include" />
+            <e p="LocalizationSettingsEditor.cs" t="Include" />
+            <e p="NavAgentMaskEditor.cs" t="Include" />
+            <e p="ParticleEffectEditor.cs" t="Include" />
+            <e p="PhysicalMaterialEditor.cs" t="Include" />
+            <e p="PostProcessSettingsEditor.cs" t="Include" />
+            <e p="RigidBodyEditor.cs" t="Include" />
+            <e p="ScriptsEditor.cs" t="Include" />
+            <e p="SkyLightEditor.cs" t="Include" />
+            <e p="SplineEditor.cs" t="Include" />
+            <e p="TerrainEditor.cs" t="Include" />
+            <e p="UIControlEditor.cs" t="Include" />
+          </e>
+          <e p="Editors" t="Include">
+            <e p="ActorLayerEditor.cs" t="Include" />
+            <e p="ActorStaticFlagsEditor.cs" t="Include" />
+            <e p="ActorTagEditor.cs" t="Include" />
+            <e p="ActorTransformEditor.cs" t="Include" />
+            <e p="ArrayEditor.cs" t="Include" />
+            <e p="AssetRefEditor.cs" t="Include" />
+            <e p="BooleanEditor.cs" t="Include" />
+            <e p="CollectionEditor.cs" t="Include" />
+            <e p="ColorEditor.cs" t="Include" />
+            <e p="ColorTrackball.cs" t="Include" />
+            <e p="CultureInfoEditor.cs" t="Include" />
+            <e p="DictionaryEditor.cs" t="Include" />
+            <e p="DoubleEditor.cs" t="Include" />
+            <e p="EnumEditor.cs" t="Include" />
+            <e p="FlaxObjectRefEditor.cs" t="Include" />
+            <e p="FloatEditor.cs" t="Include" />
+            <e p="GenericEditor.cs" t="Include" />
+            <e p="GuidEditor.cs" t="Include" />
+            <e p="IBrushEditor.cs" t="Include" />
+            <e p="Int2Editor.cs" t="Include" />
+            <e p="Int3Editor.cs" t="Include" />
+            <e p="Int4Editor.cs" t="Include" />
+            <e p="IntegerEditor.cs" t="Include" />
+            <e p="ListEditor.cs" t="Include" />
+            <e p="LocalizedStringEditor.cs" t="Include" />
+            <e p="MatrixEditor.cs" t="Include" />
+            <e p="ModelInstanceEntryEditor.cs" t="Include" />
+            <e p="ObjectSwitcherEditor.cs" t="Include" />
+            <e p="QuaternionEditor.cs" t="Include" />
+            <e p="SkeletonNodeEditor.cs" t="Include" />
+            <e p="SpriteHandleEditor.cs" t="Include" />
+            <e p="StringEditor.cs" t="Include" />
+            <e p="StyleEditor.cs" t="Include" />
+            <e p="TypeEditor.cs" t="Include" />
+            <e p="Vector2Editor.cs" t="Include" />
+            <e p="Vector3Editor.cs" t="Include" />
+            <e p="Vector4Editor.cs" t="Include" />
+            <e p="VersionEditor.cs" t="Include" />
+          </e>
+          <e p="Elements" t="Include">
+            <e p="ButtonElement.cs" t="Include" />
+            <e p="CheckBoxElement.cs" t="Include" />
+            <e p="ComboBoxElement.cs" t="Include" />
+            <e p="Container" t="Include">
+              <e p="CustomElement.cs" t="Include" />
+              <e p="GroupElement.cs" t="Include" />
+              <e p="HorizontalPanelElement.cs" t="Include" />
+              <e p="PropertiesListElement.cs" t="Include" />
+              <e p="SpaceElement.cs" t="Include" />
+              <e p="TreeElement.cs" t="Include" />
+              <e p="TreeNodeElement.cs" t="Include" />
+              <e p="VerticalPanelElement.cs" t="Include" />
+            </e>
+            <e p="DoubleValueElement.cs" t="Include" />
+            <e p="EnumElement.cs" t="Include" />
+            <e p="FloatValueElement.cs" t="Include" />
+            <e p="IFloatValueEditor.cs" t="Include" />
+            <e p="IIntegerValueEditor.cs" t="Include" />
+            <e p="ImageElement.cs" t="Include" />
+            <e p="IntegerValueElement.cs" t="Include" />
+            <e p="LabelElement.cs" t="Include" />
+            <e p="SliderElement.cs" t="Include" />
+            <e p="TextBoxElement.cs" t="Include" />
+          </e>
+          <e p="GUI" t="Include">
+            <e p="CheckablePropertyNameLabel.cs" t="Include" />
+            <e p="ClickablePropertyNameLabel.cs" t="Include" />
+            <e p="DraggablePropertyNameLabel.cs" t="Include" />
+            <e p="PropertiesList.cs" t="Include" />
+            <e p="PropertyNameLabel.cs" t="Include" />
+          </e>
+          <e p="LayoutElement.cs" t="Include" />
+          <e p="LayoutElementsContainer.cs" t="Include" />
+          <e p="SyncPointEditor.cs" t="Include" />
+          <e p="Values" t="Include">
+            <e p="CustomValueContainer.cs" t="Include" />
+            <e p="DictionaryValueContainer.cs" t="Include" />
+            <e p="ListValueContainer.cs" t="Include" />
+            <e p="ReadOnlyValueContainer.cs" t="Include" />
+            <e p="ValueContainer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="CustomEditorWindow.cs" t="Include" />
+        <e p="Editor.Build.cs" t="Include" />
+        <e p="Editor.cs" t="Include" />
+        <e p="EditorAssets.cs" t="Include" />
+        <e p="EditorIcons.cs" t="Include" />
+        <e p="Gizmo" t="Include">
+          <e p="EditorPrimitives.cs" t="Include" />
+          <e p="GizmoBase.cs" t="Include" />
+          <e p="GizmosCollection.cs" t="Include" />
+          <e p="GridGizmo.cs" t="Include" />
+          <e p="IGizmoOwner.cs" t="Include" />
+          <e p="SelectionOutline.cs" t="Include" />
+          <e p="TransformGizmo.cs" t="Include" />
+          <e p="TransformGizmoBase.cs" t="Include" />
+          <e p="TransformGizmoBase.Draw.cs" t="Include" />
+          <e p="TransformGizmoBase.Selection.cs" t="Include" />
+          <e p="TransformGizmoBase.Settings.cs" t="Include" />
+          <e p="TransformGizmoBase.Types.cs" t="Include" />
+        </e>
+        <e p="GUI" t="Include">
+          <e p="AssetPicker.cs" t="Include" />
+          <e p="ClickableLabel.cs" t="Include" />
+          <e p="ColumnDefinition.cs" t="Include" />
+          <e p="ComboBox.cs" t="Include" />
+          <e p="ContextMenu" t="Include">
+            <e p="ContextMenu.cs" t="Include" />
+            <e p="ContextMenuBase.cs" t="Include" />
+            <e p="ContextMenuButton.cs" t="Include" />
+            <e p="ContextMenuChildMenu.cs" t="Include" />
+            <e p="ContextMenuItem.cs" t="Include" />
+            <e p="ContextMenuSeparator.cs" t="Include" />
+          </e>
+          <e p="CurveEditor.cs" t="Include" />
+          <e p="Dialogs" t="Include">
+            <e p="ColorPickerDialog.cs" t="Include" />
+            <e p="ColorSelector.cs" t="Include" />
+            <e p="Dialog.cs" t="Include" />
+          </e>
+          <e p="Docking" t="Include">
+            <e p="DockHintWindow.cs" t="Include" />
+            <e p="DockPanel.cs" t="Include" />
+            <e p="DockPanelProxy.cs" t="Include" />
+            <e p="DockWindow.cs" t="Include" />
+            <e p="FloatWindowDockPanel.cs" t="Include" />
+            <e p="MasterDockPanel.cs" t="Include" />
+          </e>
+          <e p="Drag" t="Include">
+            <e p="DragActors.cs" t="Include" />
+            <e p="DragActorType.cs" t="Include" />
+            <e p="DragAssets.cs" t="Include" />
+            <e p="DragEventArgs.cs" t="Include" />
+            <e p="DragHandlers.cs" t="Include" />
+            <e p="DragHelper.cs" t="Include" />
+            <e p="DragItems.cs" t="Include" />
+            <e p="DragNames.cs" t="Include" />
+            <e p="DragScriptItems.cs" t="Include" />
+            <e p="DragScripts.cs" t="Include" />
+          </e>
+          <e p="EnumComboBox.cs" t="Include" />
+          <e p="Input" t="Include">
+            <e p="ColorValueBox.cs" t="Include" />
+            <e p="DoubleValueBox.cs" t="Include" />
+            <e p="FloatValueBox.cs" t="Include" />
+            <e p="IntValueBox.cs" t="Include" />
+            <e p="LongValueBox.cs" t="Include" />
+            <e p="SliderControl.cs" t="Include" />
+            <e p="UIntValueBox.cs" t="Include" />
+            <e p="ULongValueBox.cs" t="Include" />
+            <e p="ValueBox.cs" t="Include" />
+          </e>
+          <e p="ItemsListContextMenu.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="MainMenuButton.cs" t="Include" />
+          <e p="NavigationBar.cs" t="Include" />
+          <e p="NavigationButton.cs" t="Include" />
+          <e p="PlatformSelector.cs" t="Include" />
+          <e p="Popups" t="Include">
+            <e p="ActorSearchPopup.cs" t="Include" />
+            <e p="AssetSearchPopup.cs" t="Include" />
+            <e p="RenamePopup.cs" t="Include" />
+            <e p="ScriptSearchPopup.cs" t="Include" />
+            <e p="TypeSearchPopup.cs" t="Include" />
+          </e>
+          <e p="PrefabDiffContextMenu.cs" t="Include" />
+          <e p="Row.cs" t="Include" />
+          <e p="StatusBar.cs" t="Include" />
+          <e p="StyleValueEditor.cs" t="Include" />
+          <e p="Table.cs" t="Include" />
+          <e p="Tabs" t="Include">
+            <e p="Tab.cs" t="Include" />
+            <e p="Tabs.cs" t="Include" />
+          </e>
+          <e p="Timeline" t="Include">
+            <e p="AnimationTimeline.cs" t="Include" />
+            <e p="GUI" t="Include">
+              <e p="Background.cs" t="Include" />
+              <e p="GradientEditor.cs" t="Include" />
+              <e p="KeyframesEditor.cs" t="Include" />
+              <e p="PositionHandle.cs" t="Include" />
+              <e p="TimelineEdge.cs" t="Include" />
+            </e>
+            <e p="Media.cs" t="Include" />
+            <e p="ParticleSystemTimeline.cs" t="Include" />
+            <e p="SceneAnimationTimeline.cs" t="Include" />
+            <e p="Timeline.cs" t="Include" />
+            <e p="Track.cs" t="Include" />
+            <e p="TrackArchetype.cs" t="Include" />
+            <e p="TrackCreateOptions.cs" t="Include" />
+            <e p="Tracks" t="Include">
+              <e p="ActorTrack.cs" t="Include" />
+              <e p="AnimationChannelTrack.cs" t="Include" />
+              <e p="AudioTrack.cs" t="Include" />
+              <e p="CameraCutTrack.cs" t="Include" />
+              <e p="CurvePropertyTrack.cs" t="Include" />
+              <e p="EventTrack.cs" t="Include" />
+              <e p="FolderTrack.cs" t="Include" />
+              <e p="KeyframesPropertyTrack.cs" t="Include" />
+              <e p="MemberTrack.cs" t="Include" />
+              <e p="NestedSceneAnimationTrack.cs" t="Include" />
+              <e p="ObjectPropertyTrack.cs" t="Include" />
+              <e p="ObjectReferencePropertyTrack.cs" t="Include" />
+              <e p="ObjectTrack.cs" t="Include" />
+              <e p="ParticleEmitterTrack.cs" t="Include" />
+              <e p="PostProcessMaterialTrack.cs" t="Include" />
+              <e p="ScreenFadeTrack.cs" t="Include" />
+              <e p="ScriptTrack.cs" t="Include" />
+              <e p="SingleMediaAssetTrack.cs" t="Include" />
+              <e p="SingleMediaTrack.cs" t="Include" />
+              <e p="StringPropertyTrack.cs" t="Include" />
+              <e p="StructPropertyTrack.cs" t="Include" />
+            </e>
+            <e p="Undo" t="Include">
+              <e p="AddRemoveTrackAction.cs" t="Include" />
+              <e p="EditFpsAction.cs" t="Include" />
+              <e p="EditTimelineAction.cs" t="Include" />
+              <e p="EditTrackAction.cs" t="Include" />
+              <e p="RenameTrackAction.cs" t="Include" />
+              <e p="ReorderTrackAction.cs" t="Include" />
+              <e p="TimelineUndoBlock.cs" t="Include" />
+              <e p="TrackUndoBlock.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ToolStrip.cs" t="Include" />
+          <e p="ToolStripButton.cs" t="Include" />
+          <e p="ToolStripSeparator.cs" t="Include" />
+          <e p="Tree" t="Include">
+            <e p="Tree.cs" t="Include" />
+            <e p="TreeNode.cs" t="Include" />
+          </e>
+        </e>
+        <e p="History" t="Include">
+          <e p="HistoryStack.cs" t="Include" />
+          <e p="IHistoryAction.cs" t="Include" />
+          <e p="UndoActionObject.cs" t="Include" />
+        </e>
+        <e p="IEditable.cs" t="Include" />
+        <e p="Modules" t="Include">
+          <e p="ContentDatabaseModule.cs" t="Include" />
+          <e p="ContentEditingModule.cs" t="Include" />
+          <e p="ContentFindingModule.cs" t="Include" />
+          <e p="ContentImportingModule.cs" t="Include" />
+          <e p="EditorModule.cs" t="Include" />
+          <e p="PrefabsModule.cs" t="Include" />
+          <e p="ProgressReportingModule.cs" t="Include" />
+          <e p="ProjectCacheModule.cs" t="Include" />
+          <e p="SceneEditingModule.cs" t="Include" />
+          <e p="SceneModule.cs" t="Include" />
+          <e p="SimulationModule.cs" t="Include" />
+          <e p="SourceCodeEditing" t="Include">
+            <e p="CachedCustomAnimGraphNodesCollection.cs" t="Include" />
+            <e p="CachedTypesCollection.cs" t="Include" />
+            <e p="CodeEditingModule.cs" t="Include" />
+            <e p="DefaultSourceCodeEditor.cs" t="Include" />
+            <e p="InBuildSourceCodeEditor.cs" t="Include" />
+            <e p="ISourceCodeEditor.cs" t="Include" />
+          </e>
+          <e p="UIModule.cs" t="Include" />
+          <e p="WindowsModule.cs" t="Include" />
+        </e>
+        <e p="Options" t="Include">
+          <e p="Editor.cs" t="Include" />
+          <e p="EditorOptions.cs" t="Include" />
+          <e p="GeneralOptions.cs" t="Include" />
+          <e p="InputBinding.cs" t="Include" />
+          <e p="InputOptions.cs" t="Include" />
+          <e p="InterfaceOptions.cs" t="Include" />
+          <e p="OptionsModule.cs" t="Include" />
+          <e p="SourceCodeOptions.cs" t="Include" />
+          <e p="ThemeOptions.cs" t="Include" />
+          <e p="ViewportOptions.cs" t="Include" />
+          <e p="VisualOptions.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="EditorPlugin.cs" t="Include" />
+          <e p="PluginUtils.cs" t="Include" />
+        </e>
+        <e p="Progress" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="BakeEnvProbesProgress.cs" t="Include" />
+            <e p="BakeLightmapsProgress.cs" t="Include" />
+            <e p="BuildingGameProgress.cs" t="Include" />
+            <e p="CodeEditorOpenProgress.cs" t="Include" />
+            <e p="CompileScriptsProgress.cs" t="Include" />
+            <e p="GenerateScriptsProjectFilesProgress.cs" t="Include" />
+            <e p="ImportAssetsProgress.cs" t="Include" />
+            <e p="NavMeshBuildingProgress.cs" t="Include" />
+          </e>
+          <e p="ProgressHandler.cs" t="Include" />
+        </e>
+        <e p="ProjectInfo.cs" t="Include" />
+        <e p="SceneGraph" t="Include">
+          <e p="ActorChildNode.cs" t="Include" />
+          <e p="ActorNode.cs" t="Include" />
+          <e p="ActorNodeWithIcon.cs" t="Include" />
+          <e p="Actors" t="Include">
+            <e p="AnimatedModelNode.cs" t="Include" />
+            <e p="AudioListenerNode.cs" t="Include" />
+            <e p="AudioSourceNode.cs" t="Include" />
+            <e p="BoneSocketNode.cs" t="Include" />
+            <e p="BoxBrushNode.cs" t="Include" />
+            <e p="BoxColliderNode.cs" t="Include" />
+            <e p="BoxVolumeNode.cs" t="Include" />
+            <e p="CameraNode.cs" t="Include" />
+            <e p="ColliderNode.cs" t="Include" />
+            <e p="DecalNode.cs" t="Include" />
+            <e p="DirectionalLightNode.cs" t="Include" />
+            <e p="EnvironmentProbeNode.cs" t="Include" />
+            <e p="ExponentialHeightFogNode.cs" t="Include" />
+            <e p="FoliageNode.cs" t="Include" />
+            <e p="NavLinkNode.cs" t="Include" />
+            <e p="NavMeshBoundsVolumeNode.cs" t="Include" />
+            <e p="NavModifierVolumeNode.cs" t="Include" />
+            <e p="ParticleEffectNode.cs" t="Include" />
+            <e p="PointLightNode.cs" t="Include" />
+            <e p="PostFxVolumeNode.cs" t="Include" />
+            <e p="SceneAnimationPlayerNode.cs" t="Include" />
+            <e p="SceneNode.cs" t="Include" />
+            <e p="SkyboxNode.cs" t="Include" />
+            <e p="SkyLightNode.cs" t="Include" />
+            <e p="SkyNode.cs" t="Include" />
+            <e p="SplineNode.cs" t="Include" />
+            <e p="SpotLightNode.cs" t="Include" />
+            <e p="SpriteRenderNode.cs" t="Include" />
+            <e p="StaticModelNode.cs" t="Include" />
+            <e p="TerrainNode.cs" t="Include" />
+            <e p="TextRenderNode.cs" t="Include" />
+            <e p="UICanvasNode.cs" t="Include" />
+            <e p="UIControlNode.cs" t="Include" />
+          </e>
+          <e p="GUI" t="Include">
+            <e p="ActorTreeNode.cs" t="Include" />
+            <e p="SceneTreeNode.cs" t="Include" />
+          </e>
+          <e p="LocalSceneGraph.cs" t="Include" />
+          <e p="RootNode.cs" t="Include" />
+          <e p="SceneGraphFactory.cs" t="Include" />
+          <e p="SceneGraphNode.cs" t="Include" />
+          <e p="SceneGraphTools.cs" t="Include" />
+        </e>
+        <e p="Scripting" t="Include">
+          <e p="ScriptsBuilder.cs" t="Include" />
+          <e p="ScriptType.cs" t="Include" />
+          <e p="TypeUtils.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="BuildingLightingState.cs" t="Include" />
+          <e p="BuildingScenesState.cs" t="Include" />
+          <e p="ChangingScenesState.cs" t="Include" />
+          <e p="ClosingState.cs" t="Include" />
+          <e p="EditingSceneState.cs" t="Include" />
+          <e p="EditorState.cs" t="Include" />
+          <e p="EditorStateMachine.cs" t="Include" />
+          <e p="InvalidStateException.cs" t="Include" />
+          <e p="LoadingState.cs" t="Include" />
+          <e p="PlayingState.cs" t="Include" />
+          <e p="ReloadingScriptsState.cs" t="Include" />
+        </e>
+        <e p="Surface" t="Include">
+          <e p="AnimationGraphFunctionSurface.cs" t="Include" />
+          <e p="AnimGraphSurface.cs" t="Include" />
+          <e p="Archetypes" t="Include">
+            <e p="Animation.cs" t="Include" />
+            <e p="Animation.MultiBlend.cs" t="Include" />
+            <e p="Animation.StateMachine.cs" t="Include" />
+            <e p="Animation.TransitionEditor.cs" t="Include" />
+            <e p="Bitwise.cs" t="Include" />
+            <e p="Boolean.cs" t="Include" />
+            <e p="Comparisons.cs" t="Include" />
+            <e p="Constants.cs" t="Include" />
+            <e p="Custom.cs" t="Include" />
+            <e p="Flow.cs" t="Include" />
+            <e p="Function.cs" t="Include" />
+            <e p="Layers.cs" t="Include" />
+            <e p="Material.cs" t="Include" />
+            <e p="Math.cs" t="Include" />
+            <e p="Packing.cs" t="Include" />
+            <e p="Parameters.cs" t="Include" />
+            <e p="ParticleModules.cs" t="Include" />
+            <e p="Particles.cs" t="Include" />
+            <e p="Textures.cs" t="Include" />
+            <e p="Tools.cs" t="Include" />
+          </e>
+          <e p="AttributesEditor.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="ContextMenu" t="Include">
+            <e p="ContentFinder.cs" t="Include" />
+            <e p="SearchItem.cs" t="Include" />
+            <e p="VisjectCM.cs" t="Include" />
+            <e p="VisjectCMGroup.cs" t="Include" />
+            <e p="VisjectCMItem.cs" t="Include" />
+          </e>
+          <e p="Elements" t="Include">
+            <e p="ActorSelect.cs" t="Include" />
+            <e p="AssetSelect.cs" t="Include" />
+            <e p="BoolValue.cs" t="Include" />
+            <e p="Box.cs" t="Include" />
+            <e p="BoxValue.cs" t="Include" />
+            <e p="ColorValue.cs" t="Include" />
+            <e p="ComboBoxElement.cs" t="Include" />
+            <e p="EnumValue.cs" t="Include" />
+            <e p="FloatValue.cs" t="Include" />
+            <e p="InputBox.cs" t="Include" />
+            <e p="IntegerValue.cs" t="Include" />
+            <e p="OutputBox.cs" t="Include" />
+            <e p="SkeletonBoneIndexSelectElement.cs" t="Include" />
+            <e p="SkeletonNodeNameSelectElement.cs" t="Include" />
+            <e p="TextBoxView.cs" t="Include" />
+            <e p="TextView.cs" t="Include" />
+            <e p="UnsignedIntegerValue.cs" t="Include" />
+          </e>
+          <e p="GroupArchetype.cs" t="Include" />
+          <e p="GUI" t="Include">
+            <e p="VisjectContextNavigationButton.cs" t="Include" />
+          </e>
+          <e p="IFunctionDependantNode.cs" t="Include" />
+          <e p="IParametersDependantNode.cs" t="Include" />
+          <e p="ISurfaceContext.cs" t="Include" />
+          <e p="ISurfaceNodeElement.cs" t="Include" />
+          <e p="IVisjectSurfaceOwner.cs" t="Include" />
+          <e p="MaterialFunctionSurface.cs" t="Include" />
+          <e p="MaterialSurface.cs" t="Include" />
+          <e p="NodeArchetype.cs" t="Include" />
+          <e p="NodeElementArchetype.cs" t="Include" />
+          <e p="NodeElementType.cs" t="Include" />
+          <e p="NodeFactory.cs" t="Include" />
+          <e p="NodeFlags.cs" t="Include" />
+          <e p="ParticleEmitterFunctionSurface.cs" t="Include" />
+          <e p="ParticleEmitterSurface.cs" t="Include" />
+          <e p="SurfaceComment.cs" t="Include" />
+          <e p="SurfaceControl.cs" t="Include" />
+          <e p="SurfaceMeta.cs" t="Include" />
+          <e p="SurfaceNode.cs" t="Include" />
+          <e p="SurfaceNodeElementControl.cs" t="Include" />
+          <e p="SurfaceParameter.cs" t="Include" />
+          <e p="SurfaceRootControl.cs" t="Include" />
+          <e p="SurfaceStyle.cs" t="Include" />
+          <e p="SurfaceUtils.cs" t="Include" />
+          <e p="TransformCoordinateSystem.cs" t="Include" />
+          <e p="Undo" t="Include">
+            <e p="AddRemoveNodeAction.cs" t="Include" />
+            <e p="BoxHandle.cs" t="Include" />
+            <e p="ConnectBoxesAction.cs" t="Include" />
+            <e p="ContextHandle.cs" t="Include" />
+            <e p="EditNodeConnections.cs" t="Include" />
+            <e p="EditNodeValuesAction.cs" t="Include" />
+            <e p="MoveNodesAction.cs" t="Include" />
+          </e>
+          <e p="VisjectSurface.Connecting.cs" t="Include" />
+          <e p="VisjectSurface.Context.cs" t="Include" />
+          <e p="VisjectSurface.ContextMenu.cs" t="Include" />
+          <e p="VisjectSurface.CopyPaste.cs" t="Include" />
+          <e p="VisjectSurface.cs" t="Include" />
+          <e p="VisjectSurface.DragDrop.cs" t="Include" />
+          <e p="VisjectSurface.Draw.cs" t="Include" />
+          <e p="VisjectSurface.Formatting.cs" t="Include" />
+          <e p="VisjectSurface.Input.cs" t="Include" />
+          <e p="VisjectSurface.Paramaters.cs" t="Include" />
+          <e p="VisjectSurface.Serialization.cs" t="Include" />
+          <e p="VisjectSurfaceContext.cs" t="Include" />
+          <e p="VisjectSurfaceContext.Serialization.cs" t="Include" />
+          <e p="VisjectSurfaceWindow.cs" t="Include" />
+          <e p="VisualScriptSurface.cs" t="Include" />
+        </e>
+        <e p="Tools" t="Include">
+          <e p="Foliage" t="Include">
+            <e p="Brush.cs" t="Include" />
+            <e p="EditFoliageGizmo.cs" t="Include" />
+            <e p="EditFoliageGizmoMode.cs" t="Include" />
+            <e p="EditFoliageSelectionOutline.cs" t="Include" />
+            <e p="EditTab.cs" t="Include" />
+            <e p="FoliageTab.cs" t="Include" />
+            <e p="FoliageTypesTab.cs" t="Include" />
+            <e p="PaintFoliageGizmo.cs" t="Include" />
+            <e p="PaintFoliageGizmoMode.cs" t="Include" />
+            <e p="PaintTab.cs" t="Include" />
+            <e p="Undo" t="Include">
+              <e p="DeleteInstanceAction.cs" t="Include" />
+              <e p="EditFoliageAction.cs" t="Include" />
+              <e p="EditInstanceAction.cs" t="Include" />
+              <e p="EditSelectedInstanceIndexAction.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Terrain" t="Include">
+            <e p="Brushes" t="Include">
+              <e p="Brush.cs" t="Include" />
+              <e p="CircleBrush.cs" t="Include" />
+            </e>
+            <e p="CarveTab.cs" t="Include" />
+            <e p="CreateTerrainDialog.cs" t="Include" />
+            <e p="EditTab.cs" t="Include" />
+            <e p="EditTerrainGizmo.cs" t="Include" />
+            <e p="EditTerrainGizmoMode.cs" t="Include" />
+            <e p="Paint" t="Include">
+              <e p="Mode.cs" t="Include" />
+              <e p="SingleLayerMode.cs" t="Include" />
+            </e>
+            <e p="PaintTab.cs" t="Include" />
+            <e p="PaintTerrainGizmo.cs" t="Include" />
+            <e p="PaintTerrainGizmoMode.cs" t="Include" />
+            <e p="Sculpt" t="Include">
+              <e p="FlattenMode.cs" t="Include" />
+              <e p="HolesMode.cs" t="Include" />
+              <e p="Mode.cs" t="Include" />
+              <e p="NoiseMode.cs" t="Include" />
+              <e p="SculptMode.cs" t="Include" />
+              <e p="SmoothMode.cs" t="Include" />
+            </e>
+            <e p="SculptTab.cs" t="Include" />
+            <e p="SculptTerrainGizmo.cs" t="Include" />
+            <e p="SculptTerrainGizmoMode.cs" t="Include" />
+            <e p="Undo" t="Include">
+              <e p="EditTerrainHeightMapAction.cs" t="Include" />
+              <e p="EditTerrainHolesMapAction.cs" t="Include" />
+              <e p="EditTerrainMapAction.cs" t="Include" />
+              <e p="EditTerrainSplatMapAction.cs" t="Include" />
+            </e>
+          </e>
+          <e p="VertexPainting.cs" t="Include" />
+        </e>
+        <e p="Undo" t="Include">
+          <e p="Actions" t="Include">
+            <e p="AddRemoveScriptAction.cs" t="Include" />
+            <e p="BreakPrefabLinkAction.cs" t="Include" />
+            <e p="ChangeScriptAction.cs" t="Include" />
+            <e p="DeleteActorsAction.cs" t="Include" />
+            <e p="EditSplineAction.cs" t="Include" />
+            <e p="PasteActorsAction.cs" t="Include" />
+            <e p="SelectionChangeAction.cs" t="Include" />
+            <e p="TransformObjectsAction.cs" t="Include" />
+          </e>
+          <e p="EditorUndo.cs" t="Include" />
+          <e p="ISceneEditAction.cs" t="Include" />
+          <e p="IUndoAction.cs" t="Include" />
+          <e p="MultiUndoAction.cs" t="Include" />
+          <e p="Undo.cs" t="Include" />
+          <e p="UndoActionBase.cs" t="Include" />
+          <e p="UndoBlock.cs" t="Include" />
+          <e p="UndoMultiBlock.cs" t="Include" />
+        </e>
+        <e p="Utilities" t="Include">
+          <e p="Constants.cs" t="Include" />
+          <e p="DuplicateScenes.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="MemberComparison.cs" t="Include" />
+          <e p="MemberInfoPath.cs" t="Include" />
+          <e p="ObjectSnapshot.cs" t="Include" />
+          <e p="QueryFilterHelper.cs" t="Include" />
+          <e p="SelectionCache.cs" t="Include" />
+          <e p="ShuntingYardParser.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+          <e p="VariantUtils.cs" t="Include" />
+        </e>
+        <e p="Viewport" t="Include">
+          <e p="Cameras" t="Include">
+            <e p="ArcBallCamera.cs" t="Include" />
+            <e p="FPSCamera.cs" t="Include" />
+            <e p="IViewportCamera.cs" t="Include" />
+            <e p="ViewportCamera.cs" t="Include" />
+          </e>
+          <e p="EditorGizmoViewport.cs" t="Include" />
+          <e p="EditorViewport.cs" t="Include" />
+          <e p="MainEditorGizmoViewport.cs" t="Include" />
+          <e p="MainEditorGizmoViewport.Modes.cs" t="Include" />
+          <e p="Modes" t="Include">
+            <e p="EditorGizmoMode.cs" t="Include" />
+            <e p="NoGizmoMode.cs" t="Include" />
+            <e p="TransformGizmoMode.cs" t="Include" />
+          </e>
+          <e p="PrefabWindowViewport.cs" t="Include" />
+          <e p="Previews" t="Include">
+            <e p="AnimatedModelPreview.cs" t="Include" />
+            <e p="AssetPreview.cs" t="Include" />
+            <e p="AudioClipPreview.cs" t="Include" />
+            <e p="CubeTexturePreview.cs" t="Include" />
+            <e p="IESProfilePreview.cs" t="Include" />
+            <e p="MaterialPreview.cs" t="Include" />
+            <e p="ModelBasePreview.cs" t="Include" />
+            <e p="ModelPreview.cs" t="Include" />
+            <e p="ParticleEmitterPreview.cs" t="Include" />
+            <e p="ParticleSystemPreview.cs" t="Include" />
+            <e p="PrefabPreview.cs" t="Include" />
+            <e p="TexturePreview.cs" t="Include" />
+          </e>
+          <e p="Widgets" t="Include">
+            <e p="ViewportWidgetButton.cs" t="Include" />
+            <e p="ViewportWidgetsContainer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ViewportDebugDrawData.cs" t="Include" />
+        <e p="Windows" t="Include">
+          <e p="AboutDialog.cs" t="Include" />
+          <e p="Assets" t="Include">
+            <e p="AnimationGraphFunctionWindow.cs" t="Include" />
+            <e p="AnimationGraphWindow.cs" t="Include" />
+            <e p="AnimationWindow.cs" t="Include" />
+            <e p="AssetEditorWindow.cs" t="Include" />
+            <e p="AudioClipWindow.cs" t="Include" />
+            <e p="CollisionDataWindow.cs" t="Include" />
+            <e p="CubeTextureWindow.cs" t="Include" />
+            <e p="FontWindow.cs" t="Include" />
+            <e p="GameplayGlobalsWindow.cs" t="Include" />
+            <e p="IESProfileWindow.cs" t="Include" />
+            <e p="JsonAssetWindow.cs" t="Include" />
+            <e p="LocalizedStringTableWindow.cs" t="Include" />
+            <e p="MaterialFunctionWindow.cs" t="Include" />
+            <e p="MaterialInstanceWindow.cs" t="Include" />
+            <e p="MaterialWindow.cs" t="Include" />
+            <e p="ModelBaseWindow.cs" t="Include" />
+            <e p="ModelWindow.cs" t="Include" />
+            <e p="ParticleEmitterFunctionWindow.cs" t="Include" />
+            <e p="ParticleEmitterWindow.cs" t="Include" />
+            <e p="ParticleSystemWindow.cs" t="Include" />
+            <e p="PrefabWindow.Actions.cs" t="Include" />
+            <e p="PrefabWindow.cs" t="Include" />
+            <e p="PrefabWindow.Hierarchy.cs" t="Include" />
+            <e p="PrefabWindow.Selection.cs" t="Include" />
+            <e p="PreviewsCacheWindow.cs" t="Include" />
+            <e p="SceneAnimationWindow.cs" t="Include" />
+            <e p="SkeletonMaskWindow.cs" t="Include" />
+            <e p="SkinnedModelWindow.cs" t="Include" />
+            <e p="SpriteAtlasWindow.cs" t="Include" />
+            <e p="TextureWindow.cs" t="Include" />
+            <e p="VisjectFunctionSurfaceWindow.cs" t="Include" />
+            <e p="VisualScriptWindow.cs" t="Include" />
+          </e>
+          <e p="ContentWindow.ContextMenu.cs" t="Include" />
+          <e p="ContentWindow.cs" t="Include" />
+          <e p="ContentWindow.Navigation.cs" t="Include" />
+          <e p="ContentWindow.Search.cs" t="Include" />
+          <e p="DebugLogWindow.cs" t="Include" />
+          <e p="EditGameWindow.cs" t="Include" />
+          <e p="EditorOptionsWindow.cs" t="Include" />
+          <e p="EditorWindow.cs" t="Include" />
+          <e p="GameCookerWindow.cs" t="Include" />
+          <e p="GameWindow.cs" t="Include" />
+          <e p="GraphicsQualityWindow.cs" t="Include" />
+          <e p="OutputLogWindow.cs" t="Include" />
+          <e p="PluginsWindow.cs" t="Include" />
+          <e p="Profiler" t="Include">
+            <e p="CPU.cs" t="Include" />
+            <e p="GPU.cs" t="Include" />
+            <e p="Memory.cs" t="Include" />
+            <e p="Overall.cs" t="Include" />
+            <e p="ProfilerMode.cs" t="Include" />
+            <e p="ProfilerWindow.cs" t="Include" />
+            <e p="SamplesBuffer.cs" t="Include" />
+            <e p="SingleChart.cs" t="Include" />
+            <e p="Timeline.cs" t="Include" />
+          </e>
+          <e p="PropertiesWindow.cs" t="Include" />
+          <e p="SceneEditorWindow.cs" t="Include" />
+          <e p="SceneTreeWindow.Actors.cs" t="Include" />
+          <e p="SceneTreeWindow.ContextMenu.cs" t="Include" />
+          <e p="SceneTreeWindow.cs" t="Include" />
+          <e p="StyleEditorWindow.cs" t="Include" />
+          <e p="ToolboxWindow.cs" t="Include" />
+          <e p="VisualScriptDebuggerWindow.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Engine" t="Include">
+        <e p="Animations" t="Include">
+          <e p="AnimationGraph.cs" t="Include" />
+          <e p="Animations.Build.cs" t="Include" />
+          <e p="Curve.cs" t="Include" />
+        </e>
+        <e p="Audio" t="Include">
+          <e p="Audio.Build.cs" t="Include" />
+        </e>
+        <e p="Content" t="Include">
+          <e p="Asset.cs" t="Include" />
+          <e p="Content.Build.cs" t="Include" />
+          <e p="Content.cs" t="Include" />
+          <e p="JsonAsset.cs" t="Include" />
+          <e p="MaterialBase.cs" t="Include" />
+          <e p="SkinnedModel.cs" t="Include" />
+        </e>
+        <e p="ContentExporters" t="Include">
+          <e p="ContentExporters.Build.cs" t="Include" />
+        </e>
+        <e p="ContentImporters" t="Include">
+          <e p="ContentImporters.Build.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Collections" t="Include">
+            <e p="CircularBuffer.cs" t="Include" />
+            <e p="IOrderedDictionary.cs" t="Include" />
+            <e p="OrderedDictionary.cs" t="Include" />
+          </e>
+          <e p="Config" t="Include">
+            <e p="BuildSettings.cs" t="Include" />
+            <e p="GameSettings.cs" t="Include" />
+            <e p="LayersAndTagsSettings.cs" t="Include" />
+          </e>
+          <e p="Core.Build.cs" t="Include" />
+          <e p="Math" t="Include">
+            <e p="BoundingBox.cs" t="Include" />
+            <e p="BoundingFrustum.cs" t="Include" />
+            <e p="BoundingSphere.cs" t="Include" />
+            <e p="CollisionsHelper.cs" t="Include" />
+            <e p="Color.cs" t="Include" />
+            <e p="Color.Palette.cs" t="Include" />
+            <e p="Color32.cs" t="Include" />
+            <e p="ColorHSV.cs" t="Include" />
+            <e p="FloatR10G10B10A2.cs" t="Include" />
+            <e p="FloatR11G11B10.cs" t="Include" />
+            <e p="Half.cs" t="Include" />
+            <e p="Half2.cs" t="Include" />
+            <e p="Half3.cs" t="Include" />
+            <e p="Half4.cs" t="Include" />
+            <e p="HalfUtils.cs" t="Include" />
+            <e p="Int2.cs" t="Include" />
+            <e p="Int3.cs" t="Include" />
+            <e p="Int4.cs" t="Include" />
+            <e p="Mathf.cs" t="Include" />
+            <e p="Matrix.cs" t="Include" />
+            <e p="Matrix2x2.cs" t="Include" />
+            <e p="Matrix3x3.cs" t="Include" />
+            <e p="OrientedBoundingBox.cs" t="Include" />
+            <e p="Plane.cs" t="Include" />
+            <e p="Quaternion.cs" t="Include" />
+            <e p="Ray.cs" t="Include" />
+            <e p="Rectangle.cs" t="Include" />
+            <e p="SphericalHarmonics.cs" t="Include" />
+            <e p="Transform.cs" t="Include" />
+            <e p="TypeConverters" t="Include">
+              <e p="ColorConverter.cs" t="Include" />
+              <e p="Int2Converter.cs" t="Include" />
+              <e p="Int3Converter.cs" t="Include" />
+              <e p="Int4Converter.cs" t="Include" />
+              <e p="QuaternionConverter.cs" t="Include" />
+              <e p="Vector2Converter.cs" t="Include" />
+              <e p="Vector3Converter.cs" t="Include" />
+              <e p="Vector4Converter.cs" t="Include" />
+            </e>
+            <e p="Vector2.cs" t="Include" />
+            <e p="Vector3.cs" t="Include" />
+            <e p="Vector4.cs" t="Include" />
+            <e p="Viewport.cs" t="Include" />
+          </e>
+          <e p="Types" t="Include">
+            <e p="LayersMask.cs" t="Include" />
+          </e>
+        </e>
+        <e p="CSG" t="Include">
+          <e p="CSG.Build.cs" t="Include" />
+        </e>
+        <e p="Debug" t="Include">
+          <e p="Assert.cs" t="Include" />
+          <e p="AssertionException.cs" t="Include" />
+          <e p="Debug.Build.cs" t="Include" />
+          <e p="DebugDraw.cs" t="Include" />
+          <e p="FloatComparer.cs" t="Include" />
+        </e>
+        <e p="Engine" t="Include">
+          <e p="Debug.cs" t="Include" />
+          <e p="DebugLogHandler.cs" t="Include" />
+          <e p="Engine.Build.cs" t="Include" />
+          <e p="FlaxException.cs" t="Include" />
+          <e p="IDrawable.cs" t="Include" />
+          <e p="ILogger.cs" t="Include" />
+          <e p="ILogHandler.cs" t="Include" />
+          <e p="InputAxis.cs" t="Include" />
+          <e p="InputEvent.cs" t="Include" />
+          <e p="Logger.cs" t="Include" />
+          <e p="PostProcessEffect.cs" t="Include" />
+          <e p="SceneReference.cs" t="Include" />
+        </e>
+        <e p="Foliage" t="Include">
+          <e p="Foliage.Build.cs" t="Include" />
+        </e>
+        <e p="Graphics" t="Include">
+          <e p="GPUBufferDescription.cs" t="Include" />
+          <e p="Graphics.Build.cs" t="Include" />
+          <e p="MaterialInfo.cs" t="Include" />
+          <e p="MaterialParams.cs" t="Include" />
+          <e p="Mesh.cs" t="Include" />
+          <e p="Model.cs" t="Include" />
+          <e p="PostProcessSettings.cs" t="Include" />
+          <e p="RenderTask.cs" t="Include" />
+          <e p="RenderView.cs" t="Include" />
+          <e p="SkinnedMesh.cs" t="Include" />
+          <e p="TextureBase.cs" t="Include" />
+          <e p="Textures" t="Include">
+            <e p="GPUTextureDescription.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GraphicsDevice" t="Include">
+          <e p="DirectX" t="Include">
+            <e p="DX11" t="Include">
+              <e p="GraphicsDeviceDX11.Build.cs" t="Include" />
+            </e>
+            <e p="DX12" t="Include">
+              <e p="GraphicsDeviceDX12.Build.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Null" t="Include">
+            <e p="GraphicsDeviceNull.Build.cs" t="Include" />
+          </e>
+          <e p="Vulkan" t="Include">
+            <e p="GraphicsDeviceVulkan.Build.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Input" t="Include">
+          <e p="Input.Build.cs" t="Include" />
+          <e p="InputSettings.cs" t="Include" />
+        </e>
+        <e p="Level" t="Include">
+          <e p="Actor.cs" t="Include" />
+          <e p="Level.Build.cs" t="Include" />
+          <e p="Level.cs" t="Include" />
+          <e p="Scene.cs" t="Include" />
+          <e p="Spline.cs" t="Include" />
+        </e>
+        <e p="Localization" t="Include">
+          <e p="Localization.Build.cs" t="Include" />
+          <e p="LocalizedString.cs" t="Include" />
+        </e>
+        <e p="Main" t="Include">
+          <e p="Main.Build.cs" t="Include" />
+        </e>
+        <e p="Navigation" t="Include">
+          <e p="Navigation.Build.cs" t="Include" />
+          <e p="NavigationSettings.cs" t="Include" />
+        </e>
+        <e p="Particles" t="Include">
+          <e p="ParticleEffect.cs" t="Include" />
+          <e p="Particles.Build.cs" t="Include" />
+        </e>
+        <e p="Physics" t="Include">
+          <e p="Collisions.cs" t="Include" />
+          <e p="D6Joint.cs" t="Include" />
+          <e p="HingeJoint.cs" t="Include" />
+          <e p="Limits.cs" t="Include" />
+          <e p="Physics.Build.cs" t="Include" />
+          <e p="PhysicsSettings.cs" t="Include" />
+        </e>
+        <e p="Platform" t="Include">
+          <e p="Base" t="Include">
+            <e p="PlatformBase.cs" t="Include" />
+          </e>
+          <e p="CreateWindowSettings.cs" t="Include" />
+          <e p="Platform.Build.cs" t="Include" />
+          <e p="SettingsBase.cs" t="Include" />
+          <e p="Window.cs" t="Include" />
+        </e>
+        <e p="Profiler" t="Include">
+          <e p="Profiler.Build.cs" t="Include" />
+        </e>
+        <e p="Render2D" t="Include">
+          <e p="FontAsset.cs" t="Include" />
+          <e p="FontReference.cs" t="Include" />
+          <e p="Render2D.Build.cs" t="Include" />
+          <e p="Render2D.cs" t="Include" />
+          <e p="SpriteAtlas.cs" t="Include" />
+          <e p="TextLayoutOptions.cs" t="Include" />
+          <e p="TextRange.cs" t="Include" />
+        </e>
+        <e p="Renderer" t="Include">
+          <e p="Renderer.Build.cs" t="Include" />
+          <e p="Renderer.cs" t="Include" />
+        </e>
+        <e p="Scripting" t="Include">
+          <e p="Attributes" t="Include">
+            <e p="CollectionAttribute.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AssetReferenceAttribute.cs" t="Include" />
+              <e p="CustomEditorAliasAttribute.cs" t="Include" />
+              <e p="CustomEditorAttribute.cs" t="Include" />
+              <e p="DefaultEditorAttribute.cs" t="Include" />
+              <e p="EditorDisplayAttribute.cs" t="Include" />
+              <e p="EditorOrderAttribute.cs" t="Include" />
+              <e p="EnumDisplayAttribute.cs" t="Include" />
+              <e p="ExpandGroupsAttribute.cs" t="Include" />
+              <e p="HeaderAttribute.cs" t="Include" />
+              <e p="HideInEditorAttribute.cs" t="Include" />
+              <e p="LimitAttribute.cs" t="Include" />
+              <e p="MultilineTextAttribute.cs" t="Include" />
+              <e p="RangeAttribute.cs" t="Include" />
+              <e p="ReadOnlyAttribute.cs" t="Include" />
+              <e p="ShowInEditorAttribute.cs" t="Include" />
+              <e p="SpaceAttribute.cs" t="Include" />
+              <e p="TooltipAttribute.cs" t="Include" />
+              <e p="TypeReferenceAttribute.cs" t="Include" />
+              <e p="VisibleIfAttribute.cs" t="Include" />
+            </e>
+            <e p="ExecuteInEditModeAttribute.cs" t="Include" />
+            <e p="MonoPInvokeCallbackAttribute.cs" t="Include" />
+            <e p="NoAnimateAttribute.cs" t="Include" />
+            <e p="NoSerializeAttribute.cs" t="Include" />
+            <e p="SerializeAttribute.cs" t="Include" />
+            <e p="UnmanagedAttribute.cs" t="Include" />
+          </e>
+          <e p="Object.cs" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="GamePlugin.cs" t="Include" />
+            <e p="Plugin.cs" t="Include" />
+            <e p="PluginDescription.cs" t="Include" />
+            <e p="PluginManager.cs" t="Include" />
+          </e>
+          <e p="Script.cs" t="Include" />
+          <e p="Scripting.Build.cs" t="Include" />
+          <e p="Scripting.cs" t="Include" />
+          <e p="SoftObjectReference.cs" t="Include" />
+        </e>
+        <e p="Serialization" t="Include">
+          <e p="JsonConverters.cs" t="Include" />
+          <e p="JsonCustomSerializers" t="Include">
+            <e p="ExtendedDefaultContractResolver.cs" t="Include" />
+          </e>
+          <e p="JsonSerializer.cs" t="Include" />
+          <e p="Serialization.Build.cs" t="Include" />
+          <e p="UnmanagedMemoryStream.cs" t="Include" />
+          <e p="UnmanagedStringReader.cs" t="Include" />
+        </e>
+        <e p="ShadersCompilation" t="Include">
+          <e p="DirectX" t="Include">
+            <e p="ShaderCompilerD3D.Build.cs" t="Include" />
+            <e p="ShaderCompilerDX.Build.cs" t="Include" />
+          </e>
+          <e p="ShadersCompilation.Build.cs" t="Include" />
+          <e p="Vulkan" t="Include">
+            <e p="ShaderCompilerVulkan.Build.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ShadowsOfMordor" t="Include">
+          <e p="ShadowsOfMordor.Build.cs" t="Include" />
+        </e>
+        <e p="Streaming" t="Include">
+          <e p="Streaming.Build.cs" t="Include" />
+        </e>
+        <e p="Terrain" t="Include">
+          <e p="Terrain.Build.cs" t="Include" />
+          <e p="Terrain.cs" t="Include" />
+        </e>
+        <e p="Threading" t="Include">
+          <e p="Threading.Build.cs" t="Include" />
+        </e>
+        <e p="Tools" t="Include">
+          <e p="AudioTool" t="Include">
+            <e p="AudioTool.Build.cs" t="Include" />
+          </e>
+          <e p="MaterialGenerator" t="Include">
+            <e p="MaterialGenerator.Build.cs" t="Include" />
+          </e>
+          <e p="ModelTool" t="Include">
+            <e p="ModelTool.Build.cs" t="Include" />
+          </e>
+          <e p="TextureTool" t="Include">
+            <e p="TextureTool.Build.cs" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include">
+          <e p="GUI" t="Include">
+            <e p="Brushes" t="Include">
+              <e p="GPUTextureBrush.cs" t="Include" />
+              <e p="IBrush.cs" t="Include" />
+              <e p="LinearGradientBrush.cs" t="Include" />
+              <e p="MaterialBrush.cs" t="Include" />
+              <e p="SolidColorBrush.cs" t="Include" />
+              <e p="SpriteBrush.cs" t="Include" />
+              <e p="TextureBrush.cs" t="Include" />
+            </e>
+            <e p="CanvasContainer.cs" t="Include" />
+            <e p="CanvasRootControl.cs" t="Include" />
+            <e p="Common" t="Include">
+              <e p="Border.cs" t="Include" />
+              <e p="Button.cs" t="Include" />
+              <e p="CheckBox.cs" t="Include" />
+              <e p="Dropdown.cs" t="Include" />
+              <e p="Image.cs" t="Include" />
+              <e p="Label.cs" t="Include" />
+              <e p="ProgressBar.cs" t="Include" />
+              <e p="RenderToTextureControl.cs" t="Include" />
+              <e p="RichTextBox.cs" t="Include" />
+              <e p="RichTextBoxBase.cs" t="Include" />
+              <e p="Spacer.cs" t="Include" />
+              <e p="TextBox.cs" t="Include" />
+              <e p="TextBoxBase.cs" t="Include" />
+            </e>
+            <e p="ContainerControl.cs" t="Include" />
+            <e p="Control.Bounds.cs" t="Include" />
+            <e p="Control.cs" t="Include" />
+            <e p="DragData.cs" t="Include" />
+            <e p="DragDataFiles.cs" t="Include" />
+            <e p="DragDataText.cs" t="Include" />
+            <e p="Enums.cs" t="Include" />
+            <e p="Margin.cs" t="Include" />
+            <e p="Panels" t="Include">
+              <e p="BlurPanel.cs" t="Include" />
+              <e p="DropPanel.cs" t="Include" />
+              <e p="GridPanel.cs" t="Include" />
+              <e p="HorizontalPanel.cs" t="Include" />
+              <e p="HScrollBar.cs" t="Include" />
+              <e p="Panel.cs" t="Include" />
+              <e p="PanelWithMargins.cs" t="Include" />
+              <e p="ScrollBar.cs" t="Include" />
+              <e p="SplitPanel.cs" t="Include" />
+              <e p="TilesPanel.cs" t="Include" />
+              <e p="UniformGridPanel.cs" t="Include" />
+              <e p="VerticalPanel.cs" t="Include" />
+              <e p="VScrollBar.cs" t="Include" />
+            </e>
+            <e p="RenderOutputControl.cs" t="Include" />
+            <e p="RootControl.cs" t="Include" />
+            <e p="ScrollableControl.cs" t="Include" />
+            <e p="Style.cs" t="Include" />
+            <e p="TextBlock.cs" t="Include" />
+            <e p="TextBlockStyle.cs" t="Include" />
+            <e p="Tooltip.cs" t="Include" />
+            <e p="WindowRootControl.cs" t="Include" />
+          </e>
+          <e p="UI.Build.cs" t="Include" />
+          <e p="UICanvas.cs" t="Include" />
+          <e p="UIControl.cs" t="Include" />
+        </e>
+        <e p="Utilities" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="PerlinNoise.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+          <e p="StateMachine.cs" t="Include" />
+          <e p="StringUtils.cs" t="Include" />
+          <e p="Utilities.Build.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+        </e>
+        <e p="Visject" t="Include">
+          <e p="Visject.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FlaxEditor.Build.cs" t="Include" />
+      <e p="FlaxEngine.Gen.cs" t="Include" />
+      <e p="FlaxGame.Build.cs" t="Include" />
+      <e p="ThirdParty" t="Include">
+        <e p="assimp" t="Include">
+          <e p="assimp.Build.cs" t="Include" />
+        </e>
+        <e p="curl" t="Include">
+          <e p="curl.Build.cs" t="Include" />
+        </e>
+        <e p="detex" t="Include">
+          <e p="detex.Build.cs" t="Include" />
+        </e>
+        <e p="DirectXMesh" t="Include">
+          <e p="DirectXMesh.Build.cs" t="Include" />
+        </e>
+        <e p="DirectXTex" t="Include">
+          <e p="DirectXTex.Build.cs" t="Include" />
+        </e>
+        <e p="fmt" t="Include">
+          <e p="fmt.Build.cs" t="Include" />
+        </e>
+        <e p="freetype" t="Include">
+          <e p="freetype.Build.cs" t="Include" />
+        </e>
+        <e p="glslang" t="Include">
+          <e p="glslang.Build.cs" t="Include" />
+        </e>
+        <e p="lz4" t="Include">
+          <e p="lz4.Build.cs" t="Include" />
+        </e>
+        <e p="meshoptimizer" t="Include">
+          <e p="meshoptimizer.Build.cs" t="Include" />
+        </e>
+        <e p="minimp3" t="Include">
+          <e p="minimp3.Build.cs" t="Include" />
+        </e>
+        <e p="mono-2.0" t="Include">
+          <e p="mono.Build.cs" t="Include" />
+        </e>
+        <e p="ogg" t="Include">
+          <e p="ogg.Build.cs" t="Include" />
+        </e>
+        <e p="OpenFBX" t="Include">
+          <e p="OpenFBX.Build.cs" t="Include" />
+        </e>
+        <e p="PhysX" t="Include">
+          <e p="PhysX.Build.cs" t="Include" />
+        </e>
+        <e p="pugixml" t="Include">
+          <e p="pugixml.Build.cs" t="Include" />
+        </e>
+        <e p="rapidjson" t="Include">
+          <e p="rapidjson.Build.cs" t="Include" />
+        </e>
+        <e p="recastnavigation" t="Include">
+          <e p="recastnavigation.Build.cs" t="Include" />
+        </e>
+        <e p="spirv-tools" t="Include">
+          <e p="spirv_tools.Build.cs" t="Include" />
+        </e>
+        <e p="stb" t="Include">
+          <e p="stb.Build.cs" t="Include" />
+        </e>
+        <e p="tracy" t="Include">
+          <e p="tracy.Build.cs" t="Include" />
+        </e>
+        <e p="UniversalAnalytics" t="Include">
+          <e p="UniversalAnalytics.Build.cs" t="Include" />
+        </e>
+        <e p="UVAtlas" t="Include">
+          <e p="UVAtlas.Build.cs" t="Include" />
+        </e>
+        <e p="volk" t="Include">
+          <e p="volk.Build.cs" t="Include" />
+        </e>
+        <e p="vorbis" t="Include">
+          <e p="vorbis.Build.cs" t="Include" />
+        </e>
+        <e p="VulkanMemoryAllocator" t="Include">
+          <e p="VulkanMemoryAllocator.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Tools" t="Include">
+        <e p="Flax.Build" t="IncludeRecursive">
+          <e p="Bindings" t="Include">
+            <e p="ApiTypeInfo.cs" t="Include" />
+            <e p="BindingsGenerator.Api.cs" t="Include" />
+            <e p="BindingsGenerator.Cache.cs" t="Include" />
+            <e p="BindingsGenerator.Cpp.cs" t="Include" />
+            <e p="BindingsGenerator.cs" t="Include" />
+            <e p="BindingsGenerator.CSharp.cs" t="Include" />
+            <e p="BindingsGenerator.Parsing.cs" t="Include" />
+            <e p="ClassInfo.cs" t="Include" />
+            <e p="ClassStructInfo.cs" t="Include" />
+            <e p="EnumInfo.cs" t="Include" />
+            <e p="EventInfo.cs" t="Include" />
+            <e p="FieldInfo.cs" t="Include" />
+            <e p="FileInfo.cs" t="Include" />
+            <e p="FunctionInfo.cs" t="Include" />
+            <e p="InheritanceInfo.cs" t="Include" />
+            <e p="InjectCppCodeInfo.cs" t="Include" />
+            <e p="InterfaceInfo.cs" t="Include" />
+            <e p="LangType.cs" t="Include" />
+            <e p="MemberInfo.cs" t="Include" />
+            <e p="ModuleInfo.cs" t="Include" />
+            <e p="PropertyInfo.cs" t="Include" />
+            <e p="StructureInfo.cs" t="Include" />
+            <e p="TypeInfo.cs" t="Include" />
+          </e>
+          <e p="Build" t="Include">
+            <e p="Assembler.cs" t="Include" />
+            <e p="Builder.cs" t="Include" />
+            <e p="Builder.Projects.cs" t="Include" />
+            <e p="Builder.Rules.cs" t="Include" />
+            <e p="DepsModule.cs" t="Include" />
+            <e p="DotNet" t="Include">
+              <e p="Builder.DotNet.cs" t="Include" />
+            </e>
+            <e p="EditorModule.cs" t="Include" />
+            <e p="EngineModule.cs" t="Include" />
+            <e p="EngineTarget.cs" t="Include" />
+            <e p="GameModule.cs" t="Include" />
+            <e p="GameTarget.cs" t="Include" />
+            <e p="Graph" t="Include">
+              <e p="CompileTask.cs" t="Include" />
+              <e p="LinkTask.cs" t="Include" />
+              <e p="LocalExecutor.cs" t="Include" />
+              <e p="Task.cs" t="Include" />
+              <e p="TaskExecutor.cs" t="Include" />
+              <e p="TaskGraph.cs" t="Include" />
+            </e>
+            <e p="HeaderOnlyModule.cs" t="Include" />
+            <e p="InvalidArchitectureException.cs" t="Include" />
+            <e p="InvalidPlatformException.cs" t="Include" />
+            <e p="Module.cs" t="Include" />
+            <e p="NativeCpp" t="Include">
+              <e p="Builder.NativeCpp.cs" t="Include" />
+              <e p="BuildOptions.cs" t="Include" />
+              <e p="CompileEnvironment.cs" t="Include" />
+              <e p="CompileOutput.cs" t="Include" />
+              <e p="IncludesCache.cs" t="Include" />
+              <e p="LinkEnvironment.cs" t="Include" />
+            </e>
+            <e p="Platform.cs" t="Include" />
+            <e p="Plugin.cs" t="Include" />
+            <e p="Plugins" t="Include">
+              <e p="VisualScriptingPlugin.cs" t="Include" />
+            </e>
+            <e p="Profiling.cs" t="Include" />
+            <e p="ProjectTarget.cs" t="Include" />
+            <e p="Sdk.cs" t="Include" />
+            <e p="Target.cs" t="Include" />
+            <e p="TargetPlatform.cs" t="Include" />
+            <e p="ThirdPartyModule.cs" t="Include" />
+            <e p="Toolchain.cs" t="Include" />
+          </e>
+          <e p="CommandLine.cs" t="Include" />
+          <e p="CommandLineAttribute.cs" t="Include" />
+          <e p="Configuration.cs" t="Include" />
+          <e p="Deploy" t="Include">
+            <e p="Configuration.cs" t="Include" />
+            <e p="Deployer.cs" t="Include" />
+            <e p="Deployment.Editor.cs" t="Include" />
+            <e p="Deployment.Platforms.cs" t="Include" />
+            <e p="Deployment.Utils.cs" t="Include" />
+            <e p="FlaxBuild.cs" t="Include" />
+            <e p="VCEnvironment.cs" t="Include" />
+          </e>
+          <e p="Deps" t="Include">
+            <e p="Configuration.cs" t="Include" />
+            <e p="Dependencies" t="Include">
+              <e p="Assimp.cs" t="Include" />
+              <e p="curl.cs" t="Include" />
+              <e p="DirectXMesh.cs" t="Include" />
+              <e p="DirectXTex.cs" t="Include" />
+              <e p="freetype.cs" t="Include" />
+              <e p="glslang.cs" t="Include" />
+              <e p="mono.cs" t="Include" />
+              <e p="NewtonsoftJson.cs" t="Include" />
+              <e p="ogg.cs" t="Include" />
+              <e p="OpenAL.cs" t="Include" />
+              <e p="PhysX.cs" t="Include" />
+              <e p="UVAtlas.cs" t="Include" />
+              <e p="vorbis.cs" t="Include" />
+            </e>
+            <e p="Dependency.cs" t="Include" />
+            <e p="DepsBuilder.cs" t="Include" />
+            <e p="Downloader.cs" t="Include" />
+            <e p="ProgressDisplay.cs" t="Include" />
+          </e>
+          <e p="Flax.Build.Build.cs" t="Include" />
+          <e p="Flax.Build.csproj" t="IncludeRecursive" />
+          <e p="Globals.cs" t="Include" />
+          <e p="Log.cs" t="Include" />
+          <e p="LogIndentScope.cs" t="Include" />
+          <e p="Platforms" t="Include">
+            <e p="Android" t="Include">
+              <e p="AndroidNdk.cs" t="Include" />
+              <e p="AndroidPlatform.cs" t="Include" />
+              <e p="AndroidSdk.cs" t="Include" />
+              <e p="AndroidToolchain.cs" t="Include" />
+            </e>
+            <e p="Linux" t="Include">
+              <e p="LinuxPlatform.cs" t="Include" />
+              <e p="LinuxToolchain.cs" t="Include" />
+            </e>
+            <e p="Unix" t="Include">
+              <e p="UnixPlatform.cs" t="Include" />
+              <e p="UnixToolchain.cs" t="Include" />
+            </e>
+            <e p="UWP" t="Include">
+              <e p="UWPPlatform.cs" t="Include" />
+              <e p="UWPToolchain.cs" t="Include" />
+            </e>
+            <e p="Windows" t="Include">
+              <e p="WindowsPlatform.cs" t="Include" />
+              <e p="WindowsPlatformBase.cs" t="Include" />
+              <e p="WindowsToolchain.cs" t="Include" />
+              <e p="WindowsToolchainBase.cs" t="Include" />
+            </e>
+            <e p="XboxOne" t="Include">
+              <e p="XboxOnePlatform.cs" t="Include" />
+              <e p="XboxOneToolchain.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="ProjectInfo.cs" t="Include" />
+          <e p="Projects" t="Include">
+            <e p="IProjectCustomizer.cs" t="Include" />
+            <e p="Project.cs" t="Include" />
+            <e p="ProjectFormat.cs" t="Include" />
+            <e p="ProjectGenerator.cs" t="Include" />
+            <e p="Solution.cs" t="Include" />
+            <e p="VisualStudio" t="Include">
+              <e p="CSProjectGenerator.cs" t="Include" />
+              <e p="IVisualStudioProjectCustomizer.cs" t="Include" />
+              <e p="VCProjectGenerator.cs" t="Include" />
+              <e p="VisualStudioInstance.cs" t="Include" />
+              <e p="VisualStudioProject.cs" t="Include" />
+              <e p="VisualStudioProjectGenerator.cs" t="Include" />
+              <e p="VisualStudioVersion.cs" t="Include" />
+            </e>
+            <e p="VisualStudioCode" t="Include">
+              <e p="VisualStudioCodeInstance.cs" t="Include" />
+              <e p="VisualStudioCodeProjectGenerator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="StringWriterWithEncoding.cs" t="Include" />
+            <e p="Tokenizer.cs" t="Include" />
+            <e p="TwoWayEnumerator.cs" t="Include" />
+            <e p="Utilities.cs" t="Include" />
+            <e p="WinAPI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Flax.Build.Tests" t="IncludeRecursive">
+          <e p="Flax.Build.Tests.Build.cs" t="Include" />
+          <e p="Flax.Build.Tests.csproj" t="IncludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TestCommandLine.cs" t="Include" />
+        </e>
+        <e p="Flax.Stats" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="CodeFrame.cs" t="Include" />
+          <e p="CodeFrameNode.cs" t="Include" />
+          <e p="Flax.Stats.Build.cs" t="Include" />
+          <e p="Flax.Stats.csproj" t="IncludeRecursive" />
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Languages.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TaskType.cs" t="Include" />
+          <e p="Tools.cs" t="Include" />
+        </e>
+        <e p="FlaxEngine.Tests" t="IncludeRecursive">
+          <e p="CircularBufferTests.cs" t="Include" />
+          <e p="FlaxEngine.Tests.Build.cs" t="Include" />
+          <e p="FlaxEngine.Tests.csproj" t="IncludeRecursive" />
+          <e p="HistoryStackTests.cs" t="Include" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TestColor.cs" t="Include" />
+          <e p="TestContainerControl.cs" t="Include" />
+          <e p="TestEditorStates.cs" t="Include" />
+          <e p="TestFloatR10G10B10A2.cs" t="Include" />
+          <e p="TestFloatR11G11B10.cs" t="Include" />
+          <e p="TestModulusOperator.cs" t="Include" />
+          <e p="TestQuaternion.cs" t="Include" />
+          <e p="TestQueryFilterHelper.cs" t="Include" />
+          <e p="TestSceneGraph.cs" t="Include" />
+          <e p="TestSerialization.cs" t="Include" />
+          <e p="TestStringUtils.cs" t="Include" />
+          <e p="TestSurface.cs" t="Include" />
+          <e p="TestTransform.cs" t="Include" />
+          <e p="TextControl.cs" t="Include" />
+          <e p="UndoTests.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\jerem\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jerem\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Example Plugin.-868639042.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -23,7 +23,7 @@ namespace ExamplePlugin
             IsAlpha = false,
             IsBeta = false,
 		};
-        
+
         /// <inheritdoc />
         public override void Initialize()
         {
